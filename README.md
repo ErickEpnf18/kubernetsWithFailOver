@@ -10,7 +10,7 @@ First tool in this exercise we need to install jmeter to identify our website to
 
 #### 3.  Create number of thread or users and the period of time
 !["Structure"](/imgs/3.jpg)
-#### 4.  Running and seeing the results expected output 
+#### 4.  Running and seeing the results expected output.
 !["Structure"](/imgs/4.jpg)
 
 ### Integrants: 
