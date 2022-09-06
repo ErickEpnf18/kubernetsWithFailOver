@@ -1,6 +1,7 @@
 # FailOver With Kubernets
 
 First tool in this exercise we need to install jmeter to identify our website to test the FailOver with the Load Testing 
+##### [Video Here](https://www.youtube.com/watch?v=gJ996kmKyxY)
 ### Getting Started
 !["Structure"](/imgs/1.jpg)
 #### 1.  Opening jmeter and create a template where we record 
