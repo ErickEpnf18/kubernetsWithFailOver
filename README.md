@@ -16,6 +16,14 @@ First tool in this exercise we need to install jmeter to identify our website to
 ### Integrants: 
 #### Josue Singaña, Christian Soledispa, Erick Andrade, Jhosef Rea, Johan Quinatoa 
 
+### Videos:
 
+### User manual:
+
+https://youtube.com/shorts/UshYqGFOnXw?feature=share
+
+### Explanatory video: 
+
+https://youtube.com/shorts/UshYqGFOnXw?feature=share
 
 
